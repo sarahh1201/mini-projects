@@ -14,6 +14,5 @@ Small things I've done for practice!
     - Power function
   - **For the Future:**
     - Add more functions
-    - Make it more visually appealing?
 
     
